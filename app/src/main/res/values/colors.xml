@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Radial Gradient -->
+    <color name="background_start">#2C253D</color>  <!-- Darkened Deep Purple -->
+    <color name="background_end">#030725</color>    <!-- Dark Navy Blue -->
+
+    <!-- General Colors -->
+    <color name="black">#FF000000</color>  <!-- Pure Black -->
+    <color name="white">#FFFFFFFF</color>  <!-- Pure White -->
+
+    <!-- Option Background Colors -->
+    <color name="default_option_bg">#25213B</color>  <!-- Dark Grayish Purple -->
+    <color name="selected_option_bg">#FF9800</color>  <!-- Warm Amber for Selection -->
+    <color name="correct_answer_bg">#8B99CC00</color>  <!-- Vibrant Green for Correct Answer -->
+    <color name="incorrect_answer_bg">#A1FF4444</color>  <!-- Bold Red for Incorrect Answer -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>  <!-- White (Main Text) -->
+    <color name="text_secondary">#CFCFCF</color>  <!-- Light Gray (Subtext) -->
+
+    <!-- Button Colors -->
+    <color name="button_bg">#FFFFFF</color>  <!-- White Button Color -->
+    <color name="button_text">#2C253D</color>  <!-- Dark Purple Text for Buttons -->
+
+    <!-- Card Background -->
+    <color name="card_bg">#922C253D</color>  <!-- For card background -->
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<resources>-->
+<!--    &lt;!&ndash; Background Gradient &ndash;&gt;-->
+<!--    <color name="background_start">#3D315C</color>-->
+<!--    <color name="background_end">#030725</color>-->
+
+<!--    &lt;!&ndash; General Colors &ndash;&gt;-->
+<!--    <color name="black">#FF000000</color>-->
+<!--    <color name="white">#FFFFFFFF</color>-->
+
+<!--    &lt;!&ndash; Option TextView background Colors &ndash;&gt;-->
+<!--    <color name="default_option_bg">#FFFFFF</color>-->
+<!--    <color name="selected_option_bg">#6200EE</color>-->
+<!--    <color name="correct_answer_bg">#8B99CC00</color>-->
+<!--    <color name="incorrect_answer_bg">#A1FF4444</color>-->
+
+<!--    &lt;!&ndash; Text Colors &ndash;&gt;-->
+<!--    <color name="text_primary">#FFFFFF</color> &lt;!&ndash; White &ndash;&gt;-->
+<!--    <color name="text_secondary">#CFCFCF</color> &lt;!&ndash; Light Gray &ndash;&gt;-->
+
+<!--</resources>-->
