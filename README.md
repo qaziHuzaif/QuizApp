@@ -24,7 +24,7 @@ This is a simple yet engaging Quiz application built for Android. It allows user
 *   **Glide:** For fast and efficient image loading and caching.
 
 
-![SVG Image](https://raw.githubusercontent.com/qaziHuzaif/WishlistApp/d39865776d4d5b252c302a6c6034f8762fe000b0/Wishlist%20App.svg)
+![SVG Image](https://raw.githubusercontent.com/qaziHuzaif/QuizApp/0e35b820f0e63b3b1c6e04a685643ee78eaab0a8/Quiz%20App.svg?token=BI7FBCAA5WIHOM2T64V3ZCTHWR6WM)
 
 
 
